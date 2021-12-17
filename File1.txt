@@ -1,1 +1,9 @@
-Nama saya Muhammad Faiz Ihsanuddin
+langkah langkah  push project
+
+1.buat project
+2.buat file didalam project
+3.git init
+4.git add.
+5.git commit -m "nama project"
+6.git remote add "terserah"
+7.git push -u origin main
